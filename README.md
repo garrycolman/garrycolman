@@ -1,16 +1,25 @@
-### Hi there 👋
+# Gary Colman
 
-<!--
-**garrycolman/garrycolman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Gary! Passionate about technology and driven by innovation, I collaborate with clients globally to transform their visions into dynamic digital solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I Offer
+
+With a vast repertoire of skills and experience, I specialize in:
+- **Mobile App Development**: Crafting responsive, user-centric applications.
+- **Backend Development**: Building and optimizing scalable backend infrastructures for seamless data flow.
+- **Python**: Developing versatile scripts and applications with Python's comprehensive libraries.
+- **NFT**: Designing and implementing secure digital assets using blockchain technology.
+- **DevOps**: Streamlining and automating operational processes, ensuring rapid, reliable, and consistent deployments.
+
+---
+
+## 🚀 Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,swift,react,dart,flutter,python,django,php,laravel,nodejs,golang,ruby,figma&theme=light" alt="Stuart Sharpe's Technology Stack"/>
+</p>
+
+
+
