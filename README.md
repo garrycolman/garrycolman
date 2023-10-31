@@ -1,6 +1,6 @@
-# Gary Colman
+# Tango Silva
 
-Hello, I'm Gary! Passionate about technology and driven by innovation, I collaborate with clients globally to transform their visions into dynamic digital solutions.
+Hello, I'm Tango! Passionate about technology and driven by innovation, I collaborate with clients globally to transform their visions into dynamic digital solutions.
 
 ---
 
